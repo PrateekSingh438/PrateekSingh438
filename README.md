@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 🎓 Third Year B.Tech CSE Student at MNNIT Allahabad
 
