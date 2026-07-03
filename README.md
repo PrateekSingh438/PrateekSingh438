@@ -6,7 +6,7 @@
 
 - 🔭 Building AI-powered applications, RAG systems, Computer Vision projects, and intelligent web platforms
 - 🌱 Currently exploring Retrieval-Augmented Generation, LLMs, Reinforcement Learning, and System Design
-- 🤖 Tech Team Member at Robotics Club, MNNIT Allahabad
+- 🤖 Tech Team Member at Robotics Club, MNNIT Allahabad(Feb-2026 - June 2026)
 - ⚡ Passionate about solving challenging problems through software, AI, and robotics
 
 ---
