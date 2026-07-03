@@ -1,24 +1,110 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm Prateek Singh, a Computer Science undergraduate at MNNIT Allahabad passionate about building intelligent software systems and solving challenging problems.<br><br>My interests span Artificial Intelligence, Machine Learning, Full-Stack Development, Competitive Programming, and Robotics. I enjoy exploring how algorithms, data, and software engineering come together to create practical solutions, from AI-powered applications and computer vision systems to scalable web platforms and autonomous robots.<br><br>I have built projects in Retrieval-Augmented Generation (RAG), Computer Vision, Reinforcement Learning, and Full-Stack Development, with a particular focus on understanding systems from first principles and implementing them end-to-end.<br><br>As a competitive programmer, I have solved 700+ problems across platforms and actively participate in coding contests. I am currently a Codeforces Pupil, hold a LeetCode rating of 1811, and a CodeChef 2★ rating.<br><br>Beyond software, I am a Robotics Enthusiast and an active member of the Robotics Club at MNNIT Allahabad. I have worked on autonomous robots, computer vision-based navigation systems, and robotics competitions, earning:<br>- 🥇 1st Place — Sketch-o-Bot (Avishkar 2025)<br>- 🥈 2nd Place — Silent Breach (Botrush 3.0)<br>- 🏆 Top 10 — 3LC × MNNIT AI Hackathon (Botrush 4.0)<br><br>### Current Interests<br><br>- Artificial Intelligence & Machine Learning<br>- Retrieval-Augmented Generation (RAG)<br>- Large Language Models (LLMs)<br>- Computer Vision<br>- Robotics & Autonomous Systems<br>- Full-Stack Development<br>- System Design<br>- Competitive Programming<br><br>When I'm not coding, you'll usually find me building projects, experimenting with new technologies, participating in hackathons and robotics competitions, or solving algorithmic problems.
+# 💫 About Me
 
+🎓 Third Year B.Tech CSE Student at MNNIT Allahabad
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek7singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateek.07578@gmail.com) 
+💻 Competitive Programmer | 🤖 AI/ML & Robotics Enthusiast | 🚀 Full Stack Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrateekSingh438&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrateekSingh438&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrateekSingh438&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrateekSingh438&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Building AI-powered applications, RAG systems, Computer Vision projects, and intelligent web platforms
+- 🌱 Currently exploring Retrieval-Augmented Generation, LLMs, Reinforcement Learning, and System Design
+- 🤖 Tech Team Member at Robotics Club, MNNIT Allahabad
+- ⚡ Passionate about solving challenging problems through software, AI, and robotics
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrateekSingh438&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Achievements
+
+- 🔹 Codeforces Pupil (Max Rating: 1228)
+- 🔹 LeetCode Rating: 1811
+- 🔹 CodeChef 2★
+- 🔹 Solved 700+ DSA Problems Across Platforms
+- 🔹 Rank 2410 — LeetCode Weekly Contest 508
+- 🔹 🥇 1st Place — Sketch-o-Bot (Avishkar 2025)
+- 🔹 🥈 2nd Place — Silent Breach (Botrush 3.0)
+- 🔹 🏆 Top 10 — 3LC × MNNIT AI Hackathon (Botrush 4.0)
+- 🔹 Finalist — Turing's Playground, MNNIT
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 StudyMate
+AI-powered study companion built with a custom RAG pipeline, OCR support, hybrid retrieval, reranking, and citation-grounded answers.
+
+**Tech:** FastAPI • PostgreSQL • Next.js • TypeScript • Groq • Docker
+
+---
+
+### 🪞 Mirror of Maya
+Near-duplicate image detection system using DINOv2 embeddings, FAISS similarity search, perceptual hashing, and benchmark-driven evaluation.
+
+**Tech:** PyTorch • DINOv2 • FAISS • Streamlit • NetworkX
+
+---
+
+### 🧠 Deepfake Detector
+EfficientNetB0-based deepfake detection system with Grad-CAM explainability and a React-powered interface.
+
+**Tech:** TensorFlow • OpenCV • Flask • React
+
+---
+
+### 📈 RL Trading System
+Risk-aware reinforcement learning trading platform using PPO + SAC ensembles, FinBERT sentiment analysis, and a real-time dashboard.
+
+**Tech:** FastAPI • PyTorch • React • FinBERT • PPO • SAC
+
+---
+
+## 🎯 Current Interests
+
+- Artificial Intelligence & Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Computer Vision
+- Robotics & Autonomous Systems
+- Full Stack Development
+- System Design
+- Competitive Programming
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek7singh)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateek.07578@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=PrateekSingh438&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=PrateekSingh438&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrateekSingh438&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=PrateekSingh438&color=blueviolet)
